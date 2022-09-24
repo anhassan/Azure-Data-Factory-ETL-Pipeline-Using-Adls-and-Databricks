@@ -112,5 +112,5 @@ The overall architecture diagram below explains the entire process:
 
   
 <p align="center">
-  <img src="assets/adf7.PNG" />
+  <img src="assets/adf7.png" />
 </p>
